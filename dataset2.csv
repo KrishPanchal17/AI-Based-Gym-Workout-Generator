@@ -1,0 +1,21 @@
+﻿Workout_Type,Targeted_Muscle,Equipment,Experience,Exercises,Sets,Min_Reps,Max_Reps,Duration,Intensity
+Cardio,Full Body,None (Bodyweight),Beginner,Jogging in Place,1,0,0,20 min,Low
+Cardio,Full Body,Treadmill,Intermediate,Treadmill Running,1,0,0,30 min,Medium
+Cardio,Full Body,Stationary Bike,Advanced,Cycling (High Resistance),1,0,0,45 min,High
+Cardio,Full Body,Jump Rope,Beginner,Jump Rope,1,0,0,15 min,Medium
+HIIT,Full Body,None (Bodyweight),Beginner,Burpees,3,10,12,0 min,High
+HIIT,"Legs, Core",Dumbbells,Intermediate,Jump Squats with Dumbbells,4,15,15,0 min,High
+HIIT,Full Body,Kettlebell,Advanced,Kettlebell Swings,5,20,20,0 min,High
+HIIT,Core,None (Bodyweight),Intermediate,Mountain Climbers,3,20,20,0 min,High
+Strength,Chest,Barbell,Beginner,Bench Press,3,8,10,0 min,Medium
+Strength,Back,Pull-Up Bar,Intermediate,Pull-Ups,3,6,8,0 min,Medium
+Strength,Legs,Barbell,Advanced,Barbell Back Squat,4,5,7,0 min,High
+Strength,Shoulders,Dumbbells,Beginner,Dumbbell Shoulder Press,3,8,10,0 min,Medium
+Muscle Building,Biceps,Dumbbells,Beginner,Dumbbell Curls,3,10,12,0 min,Medium
+Muscle Building,Shoulders,Barbell,Intermediate,Overhead Press,4,8,10,0 min,Medium
+Muscle Building,"Chest, Triceps","Bench, Barbell",Advanced,Close-Grip Bench Press,4,6,8,0 min,High
+Muscle Building,Legs,Barbell,Intermediate,Barbell Lunges,4,10,12,0 min,Medium
+Flexibility,"Hamstrings, Lower Back",None (Bodyweight),Beginner,Seated Forward Bend,1,0,0,30-60 sec,Low
+Flexibility,"Hips, Glutes",Yoga Mat,Intermediate,Pigeon Pose,1,0,0,60 sec/side,Low
+Flexibility,Full Body,Yoga Mat,Advanced,Downward Dog to Upward Dog Flow,1,0,0,60-90 sec,Low
+Flexibility,"Shoulders, Chest",None (Bodyweight),Beginner,Doorway Chest Stretch,1,0,0,30 sec,Low
