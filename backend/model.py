@@ -5,7 +5,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import LabelEncoder
 
 # Load dataset
-df = pd.read_csv(r'C:\Users\KRISH PANCHAL\Documents\AI Mini Project\dataset.csv')
+df = pd.read_csv(r'C:\Users\jay11\OneDrive\Desktop\AI_gym_plan\AI-Based-Gym-Workout-Generator\dataset.csv')
 
 # Encode categorical variables
 encoder_gender = LabelEncoder()
